@@ -1,4 +1,4 @@
-# sikang99/ai-example
+# sikang99/ai-study
 
 ### History
 - 2019/04/09 [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
