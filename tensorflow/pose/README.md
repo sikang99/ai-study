@@ -1,4 +1,4 @@
-## pose
+## tensorflow/pose
 Pose Estimation
 
 ### Information
@@ -7,6 +7,7 @@ Pose Estimation
 
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models)
+- [**CMU-Perceptual-Computing-Lab/openpose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 
 ### Demos
