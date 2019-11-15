@@ -3,7 +3,9 @@ Pose Estimation
 
 
 ### History
+- 2019/08/26 [OpenPose, PNASNet 5 for Pose Classification Competition (Fastai)](https://towardsdatascience.com/openpose-pnasnet-5-for-pose-classification-competition-fastai-dc35709158d0)
 - 2018/08/25 [Real-time Pose Estimation in webcam using OpenPose : Python 2/3 & OpenCV](https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c)
+- 2019/08/05 [**A 2019 Guide to Human Pose Estimation**](https://heartbeat.fritz.ai/a-2019-guide-to-human-pose-estimation-c10b79b64b73)
 
 
 ### History (Korean)
@@ -21,6 +23,7 @@ Pose Estimation
 ### Open Source
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models)
 - [**CMU-Perceptual-Computing-Lab/openpose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [Pose Detection with OpenPose](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
 
 
 ### Demos
@@ -28,6 +31,10 @@ Pose Estimation
 
 
 ### Papers
-- 2019 [OpenPose: Whole-Body Pose Estimation](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
+- 2019 [**Lightweight OpenPose**](http://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=75554)
+- 2019 [**OpenPose: Whole-Body Pose Estimation**](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
 - 2018 [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)
 
+
+### Videos
+- 2019 [RI Seminar: Yaser Ajmal Sheikh : Social Perception for Machines](https://www.youtube.com/watch?v=VpPtALKE2KE)
