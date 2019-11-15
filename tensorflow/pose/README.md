@@ -3,9 +3,12 @@ Pose Estimation
 
 
 ### History
+- 2019/09/01 [Converting OpenPose for Wolfram Language](https://community.wolfram.com/groups/-/m/t/1787163)
 - 2019/08/26 [OpenPose, PNASNet 5 for Pose Classification Competition (Fastai)](https://towardsdatascience.com/openpose-pnasnet-5-for-pose-classification-competition-fastai-dc35709158d0)
 - 2018/08/25 [Real-time Pose Estimation in webcam using OpenPose : Python 2/3 & OpenCV](https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c)
 - 2019/08/05 [**A 2019 Guide to Human Pose Estimation**](https://heartbeat.fritz.ai/a-2019-guide-to-human-pose-estimation-c10b79b64b73)
+- 2019/07/01 [An Overview of Human Pose Estimation with Deep Learning](https://www.kdnuggets.com/2019/06/human-pose-estimation-deep-learning.html)
+    - OpenPose, DeepCut, RMPE(AlphaPose), Mask RCNN
 - 2019/04/02 [Human pose estimation using Deep Learning in OpenCV](https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/)
 - 2019/01/03 [Openpose on a Macbook with CUDA](https://hackaday.io/project/162944-auto-tracking-camera/log/157786-openpose-on-a-macbook-with-cuda)
 
@@ -24,6 +27,7 @@ Pose Estimation
 
 
 ### Open Source
+- [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models)
 - [**CMU-Perceptual-Computing-Lab/openpose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [Pose Detection with OpenPose](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
