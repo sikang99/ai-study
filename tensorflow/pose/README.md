@@ -5,13 +5,17 @@ Pose Estimation
 ### History
 - 2018/08/25 [Real-time Pose Estimation in webcam using OpenPose : Python 2/3 & OpenCV](https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c)
 
+
 ### History (Korean)
+- 2019/06/27 [OpenPose: docker 로 설치하고 실행하기](https://curioso365.tistory.com/102)
 - 2019/05/05 [오픈포즈 설치 사용 방법](https://hiseon.me/data-analytics/introduction-openpose/)
+- 2019/02/28 [OpenPose: How to use OpenPose on ubuntu](https://yongyong-e.tistory.com/68)
 - 2018/04/12 [openPose 설치 및 구동 (ubuntu 16.04 + 1080)](https://goodtogreate.tistory.com/entry/openPose-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EA%B5%AC%EB%8F%99-ubuntu-1604-1080)
 
 
 ### Information
 - [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+- [Human Foot Keypoint Dataset](https://cmu-perceptual-computing-lab.github.io/foot_keypoint_dataset/)
 
 
 ### Open Source
@@ -22,4 +26,8 @@ Pose Estimation
 ### Demos
 - [Posenet Demo](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) - MobileNetV1, ResNet50
 
+
+### Papers
+- 2019 [OpenPose: Whole-Body Pose Estimation](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
+- 2018 [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)
 
