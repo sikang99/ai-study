@@ -27,7 +27,7 @@ Pose Estimation
 
 
 ### Open Source
-- [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation
+- [**cbsudux/awesome-human-pose-estimation**](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models)
 - [**CMU-Perceptual-Computing-Lab/openpose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [Pose Detection with OpenPose](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
