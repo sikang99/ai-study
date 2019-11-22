@@ -9,7 +9,7 @@
 
 
 ### Open Source
-- [https://github.com/deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models
 
 
 ### Videos
