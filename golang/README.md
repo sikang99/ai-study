@@ -15,6 +15,7 @@
 
 
 ### Open Source
+- [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go
 - [lsds/KungFu](https://github.com/lsds/KungFu) - KungFu distributed machine learning framework
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [esimov/pigo](https://github.com/esimov/pigo) - Go implementation of Pico face detection library.
