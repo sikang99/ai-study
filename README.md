@@ -14,6 +14,7 @@
 - [ONNX (Open Neural Network Exchange Format)](https://onnx.ai/)
 - [NNEF(Neural Network Exchange Format)](https://www.khronos.org/nnef) - Khronos
 - MLIR (Multi-Level Intermediate Representation) - Tensorflow, LLVM
+- [tvm.ai](https://tvm.ai/) - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators
 
 
 ### Stackoverflow
@@ -21,6 +22,7 @@
 
 
 ### Open Source
+- [apache/incubator-tvm](https://github.com/apache/incubator-tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
 - [ml5js/ml5-examples](https://github.com/ml5js/ml5-examples) - A collection of ml5.js examples https://ml5js.org/getting-started/
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX models using JavaScript
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
