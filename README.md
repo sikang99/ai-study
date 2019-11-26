@@ -26,3 +26,5 @@
 - [ml5js/ml5-examples](https://github.com/ml5js/ml5-examples) - A collection of ml5.js examples https://ml5js.org/getting-started/
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX models using JavaScript
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
+- [DataForScience/DeepLearning](https://github.com/DataForScience/DeepLearning) - Deep Learning From Scratch https://www.data4sci.com
+
