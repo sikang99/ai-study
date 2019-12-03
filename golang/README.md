@@ -27,6 +27,7 @@
 - [PacktPublishing/Go-Machine-Learning-Projects](https://github.com/PacktPublishing/Go-Machine-Learning-Projects) - Go Machine Learning Projects, published by Packt
 - [grailbio/bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language https://bigslice.io/
+- [xyproto/wann](https://github.com/xyproto/wann) - Weight Agnostic Neural Networks in Go
 
 
 ### Books
