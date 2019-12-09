@@ -50,6 +50,7 @@ Pose Estimation
 
 
 ### Papers
+- 2019 [FastPose: Towards Real-time Pose Estimation and Tracking via Scale-normalized Multi-task Networks](https://arxiv.org/pdf/1908.05593.pdf)
 - 2019 [**Lightweight OpenPose**](http://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=75554)
 - 2019 [**OpenPose: Whole-Body Pose Estimation**](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
 - 2018 [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)
