@@ -42,6 +42,9 @@ Pose Estimation
 - [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) - Real-time single person pose estimation for Android and iOS
 - [ildoonet/tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference
 - [tucan9389/tf2-mobile-pose-estimation](https://github.com/tucan9389/tf2-mobile-pose-estimation) - Single pose estimation for iOS and android using TensorFlow 2.0
+- [Daniil-Osokin/lightweight-human-pose-estimation.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)
+- [**PINTO0309/MobileNetV2-PoseEstimation**](https://github.com/PINTO0309/MobileNetV2-PoseEstimation) - Tensorflow based Fast Pose estimation. OpenVINO, Tensorflow Lite, NCS, NCS2 + Python
+
 
 
 ### Demos
