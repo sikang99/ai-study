@@ -7,10 +7,12 @@ Pose Estimation
 - 2019/08/26 [OpenPose, PNASNet 5 for Pose Classification Competition (Fastai)](https://towardsdatascience.com/openpose-pnasnet-5-for-pose-classification-competition-fastai-dc35709158d0)
 - 2018/08/25 [Real-time Pose Estimation in webcam using OpenPose : Python 2/3 & OpenCV](https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c)
 - 2019/08/05 [**A 2019 Guide to Human Pose Estimation**](https://heartbeat.fritz.ai/a-2019-guide-to-human-pose-estimation-c10b79b64b73)
+- 2019/08/23 [Human Pose Detection on EdgeTPU](https://pythonawesome.com/human-pose-detection-on-edgetpu/)
 - 2019/07/01 [An Overview of Human Pose Estimation with Deep Learning](https://www.kdnuggets.com/2019/06/human-pose-estimation-deep-learning.html)
     - OpenPose, DeepCut, RMPE(AlphaPose), Mask RCNN
 - 2019/04/02 [Human pose estimation using Deep Learning in OpenCV](https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/)
 - 2019/01/03 [Openpose on a Macbook with CUDA](https://hackaday.io/project/162944-auto-tracking-camera/log/157786-openpose-on-a-macbook-with-cuda)
+- 2018/05/08 [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 
 
 ### History (Korean)
@@ -24,6 +26,7 @@ Pose Estimation
 - [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 - [Human Foot Keypoint Dataset](https://cmu-perceptual-computing-lab.github.io/foot_keypoint_dataset/)
 - [Auto tracking camera](https://hackaday.io/project/162944-auto-tracking-camera)
+- TensorFlow for Mobile & IoT: [Pose estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview)
 
 
 ### Open Source
@@ -32,6 +35,9 @@ Pose Estimation
 - [**CMU-Perceptual-Computing-Lab/openpose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [Pose Detection with OpenPose](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
 - [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) - Real-time single person pose estimation for Android and iOS
+- [ildoonet/tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference
+
+
 
 ### Demos
 - [Posenet Demo](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) - MobileNetV1, ResNet50
