@@ -19,3 +19,7 @@
 
 
 
+### Slides
+- 2019 [Artificial Intelligence in Small Embedded System](https://www.slideshare.net/GlobalLogicUkraine/artificial-intelligence-in-small-embedded-system)
+
+
