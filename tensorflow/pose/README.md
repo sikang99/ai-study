@@ -31,7 +31,7 @@ Pose Estimation
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models)
 - [**CMU-Perceptual-Computing-Lab/openpose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [Pose Detection with OpenPose](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/OpenPose.ipynb)
-
+- [edvardHua/PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile) - Real-time single person pose estimation for Android and iOS
 
 ### Demos
 - [Posenet Demo](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) - MobileNetV1, ResNet50
