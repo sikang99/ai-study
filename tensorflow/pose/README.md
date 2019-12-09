@@ -11,6 +11,7 @@ Pose Estimation
 - 2019/07/01 [An Overview of Human Pose Estimation with Deep Learning](https://www.kdnuggets.com/2019/06/human-pose-estimation-deep-learning.html)
     - OpenPose, DeepCut, RMPE(AlphaPose), Mask RCNN
 - 2019/04/02 [Human pose estimation using Deep Learning in OpenCV](https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/)
+- 2019/02/20 [Pose Estimation on Android with Fritz AI](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede)
 - 2019/01/03 [Openpose on a Macbook with CUDA](https://hackaday.io/project/162944-auto-tracking-camera/log/157786-openpose-on-a-macbook-with-cuda)
 - 2018/05/08 [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 
