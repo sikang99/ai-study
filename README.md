@@ -8,6 +8,8 @@
 - 2018/05/08 [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 - 2017/09/01 [CPSC 340: Machine Learning and Data Mining - Convolutional Neural Networks](https://www.cs.ubc.ca/~schmidtm/Courses/340-F17/L33.pdf)
 - [A Primer on Artificial Intelligence for Military Leaders](https://smallwarsjournal.com/jrnl/art/primer-artificial-intelligence-military-leaders) - AI Concept Map
+- 2019/03/28 [TinyML Sees Big Hopes for Small AI](https://www.eetimes.com/tinyml-sees-big-hopes-for-small-ai/#)
+
 
 
 ### Information
