@@ -11,6 +11,8 @@ Pose Estimation
 - 2019/07/01 [An Overview of Human Pose Estimation with Deep Learning](https://www.kdnuggets.com/2019/06/human-pose-estimation-deep-learning.html)
     - OpenPose, DeepCut, RMPE(AlphaPose), Mask RCNN
 - 2019/06/14 [Build a Machine Learning Model in your Browser using TensorFlow.js and Python](https://www.analyticsvidhya.com/blog/2019/06/build-machine-learning-model-in-your-browser-tensorflow-js-deeplearn-js/)
+- 2019/05/30 [Review: DeepPose — Cascade of CNN (Human Pose Estimation)](https://towardsdatascience.com/review-deeppose-cascade-of-cnn-human-pose-estimation-cf3170103e36) - Using Cascade of Convolutional Neural Networks for Refinement, State-of-the-art Performance on Four Datasets
+- 2019/05/19 [Review: MobileNetV2 — Light Weight Model (Image Classification)](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c) - Outperforms MobileNetV1, NASNet, and ShuffleNet V1
 - 2019/04/02 [Human pose estimation using Deep Learning in OpenCV](https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/)
 - 2019/02/20 [Pose Estimation on Android with Fritz AI](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede)
 - 2019/01/04 [**Using pre-trained Tensorflow.js models**](https://golb.hplar.ch/2019/01/pretrained-models.html)
@@ -31,6 +33,7 @@ Pose Estimation
 - [Auto tracking camera](https://hackaday.io/project/162944-auto-tracking-camera)
 - TensorFlow for Mobile & IoT: [Pose estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview)
 - [The Top 65 Pose Estimation Open Source Projects](https://awesomeopensource.com/projects/pose-estimation)
+- [The Top 21 Mobilenetv2 Open Source Projects](https://awesomeopensource.com/projects/mobilenetv2)
 - [Pose Estimation Guide](https://www.fritz.ai/pose-estimation/)
 
 
@@ -50,6 +53,10 @@ Pose Estimation
 ### Demos
 - [Posenet Demo](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) - MobileNetV1, ResNet50
 - [OpenVINO Toolkit](https://docs.openvinotoolkit.org/) - for human vision using CNN
+
+
+### Slides
+- 2019 [Human Pose Estimation](https://delta-course.org/docs/IntelCVSchool/2019-03-17_Human_Pose_Estimation_Intel_CV_School_IOTG_Computer_Vision_Daniil_Osokin.pdf)
 
 
 ### Papers

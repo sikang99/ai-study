@@ -19,7 +19,7 @@
 ### Devices
 - Google [Coral](https://coral.ai/) - Edge Analytics, Local AI Platform
 - Nvidia [Autonomous Machine](https://www.nvidia.com/en-us/autonomous-machines/) - Jetson Nano
-- Intel [Neural Compute Stick](https://software.intel.com/en-us/neural-compute-stick)
+- Intel [Neural Compute Stick: NCS](https://software.intel.com/en-us/neural-compute-stick) - NCS2
 - [BeagleBone AI](https://beagleboard.org/ai)
 
 
