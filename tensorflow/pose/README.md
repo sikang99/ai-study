@@ -38,6 +38,7 @@
 - [The Top 65 Pose Estimation Open Source Projects](https://awesomeopensource.com/projects/pose-estimation)
 - [The Top 21 Mobilenetv2 Open Source Projects](https://awesomeopensource.com/projects/mobilenetv2)
 - [Pose Estimation Guide](https://www.fritz.ai/pose-estimation/)
+- Papers with Code: [Pose Estimation](https://paperswithcode.com/task/pose-estimation)
 
 
 ### Open Source
