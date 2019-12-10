@@ -60,6 +60,8 @@
 ### Demos
 - [Posenet Demo](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html) - MobileNetV1, ResNet50
 - [OpenVINO Toolkit](https://docs.openvinotoolkit.org/) - for human vision using CNN
+- [Human Pose Estimation Demo – Microsoft® Windows®](https://software.intel.com/en-us/articles/human-pose-estimation-demo-microsoft-windows)
+- [OpenPifPafWebDemo Serverless](https://vita-epfl.github.io/openpifpafwebdemo/)
 
 
 ### Slides
@@ -67,6 +69,7 @@
 
 
 ### Papers
+- 2019 [Learnable Triangulation of Human Pose](https://saic-violet.github.io/learnable-triangulation/)
 - 2019 [3D human pose estimation in video with temporal convolutions and semi-supervised training](https://research.fb.com/publications/3d-human-pose-estimation-in-video-with-temporal-convolutions-and-semi-supervised-training/)
 - 2019 [View Invariant 3D Human Pose Estimation](https://www.microsoft.com/en-us/research/publication/view-invariant-3d-human-pose-estimation/)
 - 2019 [Simple and Lightweight Human Pose Estimation](https://arxiv.org/abs/1911.10346) - 9% of ResNet50
