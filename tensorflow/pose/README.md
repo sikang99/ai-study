@@ -1,5 +1,5 @@
 ## tensorflow/pose
-Pose Estimation
+(Human) Pose Estimation
 
 
 ### History
@@ -13,7 +13,10 @@ Pose Estimation
 - 2019/06/14 [Build a Machine Learning Model in your Browser using TensorFlow.js and Python](https://www.analyticsvidhya.com/blog/2019/06/build-machine-learning-model-in-your-browser-tensorflow-js-deeplearn-js/)
 - 2019/05/30 [Review: DeepPose — Cascade of CNN (Human Pose Estimation)](https://towardsdatascience.com/review-deeppose-cascade-of-cnn-human-pose-estimation-cf3170103e36) - Using Cascade of Convolutional Neural Networks for Refinement, State-of-the-art Performance on Four Datasets
 - 2019/05/19 [Review: MobileNetV2 — Light Weight Model (Image Classification)](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c) - Outperforms MobileNetV1, NASNet, and ShuffleNet V1
+- 2019/04/29 [**An Overview of Human Pose Estimation with Deep Learning**](https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b)
+- 2019/04/12 [**A 2019 guide to Human Pose Estimation with Deep Learning**](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
 - 2019/04/02 [Human pose estimation using Deep Learning in OpenCV](https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/)
+- 2019/03/26 [Human Pose Estimation : Simplified](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
 - 2019/02/20 [Pose Estimation on Android with Fritz AI](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede)
 - 2019/01/04 [**Using pre-trained Tensorflow.js models**](https://golb.hplar.ch/2019/01/pretrained-models.html)
 - 2019/01/03 [Openpose on a Macbook with CUDA](https://hackaday.io/project/162944-auto-tracking-camera/log/157786-openpose-on-a-macbook-with-cuda)
@@ -47,6 +50,7 @@ Pose Estimation
 - [tucan9389/tf2-mobile-pose-estimation](https://github.com/tucan9389/tf2-mobile-pose-estimation) - Single pose estimation for iOS and android using TensorFlow 2.0
 - [Daniil-Osokin/lightweight-human-pose-estimation.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)
 - [**PINTO0309/MobileNetV2-PoseEstimation**](https://github.com/PINTO0309/MobileNetV2-PoseEstimation) - Tensorflow based Fast Pose estimation. OpenVINO, Tensorflow Lite, NCS, NCS2 + Python
+- [**microsoft/human-pose-estimation.pytorch**](https://github.com/microsoft/human-pose-estimation.pytorch)
 
 
 
@@ -64,6 +68,7 @@ Pose Estimation
 - 2019 [**Lightweight OpenPose**](http://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=75554)
 - 2019 [**OpenPose: Whole-Body Pose Estimation**](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
 - 2018 [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)
+- 2018 [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
 
 
 ### Videos
