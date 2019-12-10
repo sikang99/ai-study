@@ -3,6 +3,7 @@
 
 
 ### History
+- 2019/10/19 [Real time human pose estimation on Jetson Nano (22FPS)](https://devtalk.nvidia.com/default/topic/1065149/jetson-projects/real-time-human-pose-estimation-on-jetson-nano-22fps-/)
 - 2019/09/01 [Converting OpenPose for Wolfram Language](https://community.wolfram.com/groups/-/m/t/1787163)
 - 2019/08/26 [OpenPose, PNASNet 5 for Pose Classification Competition (Fastai)](https://towardsdatascience.com/openpose-pnasnet-5-for-pose-classification-competition-fastai-dc35709158d0)
 - 2018/08/25 [Real-time Pose Estimation in webcam using OpenPose : Python 2/3 & OpenCV](https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c)
@@ -53,6 +54,7 @@
 - [**PINTO0309/MobileNetV2-PoseEstimation**](https://github.com/PINTO0309/MobileNetV2-PoseEstimation) - Tensorflow based Fast Pose estimation. OpenVINO, Tensorflow Lite, NCS, NCS2 + Python
 - [**microsoft/human-pose-estimation.pytorch**](https://github.com/microsoft/human-pose-estimation.pytorch)
 - [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
+- [vita-epfl/openpifpaf](https://github.com/vita-epfl/openpifpaf) - Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch
 
 
 ### Demos
@@ -71,6 +73,7 @@
 - 2019 [FastPose: Towards Real-time Pose Estimation and Tracking via Scale-normalized Multi-task Networks](https://arxiv.org/pdf/1908.05593.pdf)
 - 2019 [**Lightweight OpenPose**](http://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=75554)
 - 2019 [**OpenPose: Whole-Body Pose Estimation**](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
+- 2019 [Our new CVPR'19 Human Pose Estimation code is available on-line!](https://actu.epfl.ch/news/our-new-cvpr-19-human-pose-estimation-code-is-avai/)
 - 2018 [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)
 - 2018 [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
 
