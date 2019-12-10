@@ -52,7 +52,7 @@
 - [Daniil-Osokin/lightweight-human-pose-estimation.pytorch](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)
 - [**PINTO0309/MobileNetV2-PoseEstimation**](https://github.com/PINTO0309/MobileNetV2-PoseEstimation) - Tensorflow based Fast Pose estimation. OpenVINO, Tensorflow Lite, NCS, NCS2 + Python
 - [**microsoft/human-pose-estimation.pytorch**](https://github.com/microsoft/human-pose-estimation.pytorch)
-
+- [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
 
 
 ### Demos
@@ -65,6 +65,9 @@
 
 
 ### Papers
+- 2019 [3D human pose estimation in video with temporal convolutions and semi-supervised training](https://research.fb.com/publications/3d-human-pose-estimation-in-video-with-temporal-convolutions-and-semi-supervised-training/)
+- 2019 [View Invariant 3D Human Pose Estimation](https://www.microsoft.com/en-us/research/publication/view-invariant-3d-human-pose-estimation/)
+- 2019 [Simple and Lightweight Human Pose Estimation](https://arxiv.org/abs/1911.10346) - 9% of ResNet50
 - 2019 [FastPose: Towards Real-time Pose Estimation and Tracking via Scale-normalized Multi-task Networks](https://arxiv.org/pdf/1908.05593.pdf)
 - 2019 [**Lightweight OpenPose**](http://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=75554)
 - 2019 [**OpenPose: Whole-Body Pose Estimation**](https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf)
