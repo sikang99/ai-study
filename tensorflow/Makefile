@@ -1,5 +1,8 @@
-
-
+#
+# Makefile for tensorflow
+#
+usage:
+	@echo "usage: make [run]"
 
 
 
