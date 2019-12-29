@@ -2,6 +2,7 @@
 
 
 ### History
+- 2019/12/06 [AI in browsers: Comparing TensorFlow, ONNX, and WebDNN for image classification](https://blog.logrocket.com/ai-in-browsers-comparing-tensorflow-onnx-and-webdnn-for-image-classification/)
 - 2019/12/17 [Tensorflow.js available on WebAssembly backend 🔥](https://yashints.dev/blog/2019/12/17/tfjs-wasm)
 - 2019/02/04 [TensorFlow.js: machine learning for the web and beyond](https://blog.acolyer.org/2019/02/04/tensorflow-js-machine-learning-for-the-web-and-beyond/)
 
@@ -21,4 +22,5 @@
 
 ### Papers
 - 2019 [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/1901.05350)
+- 2018 [**Bringing the web up to speed with WebAssembly**](https://www.researchgate.net/publication/329107994_Bringing_the_web_up_to_speed_with_WebAssembly)
 
