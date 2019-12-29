@@ -3,6 +3,7 @@
 
 ### History
 - 2019/12/17 [Tensorflow.js available on WebAssembly backend 🔥](https://yashints.dev/blog/2019/12/17/tfjs-wasm)
+- 2019/02/04 [TensorFlow.js: machine learning for the web and beyond](https://blog.acolyer.org/2019/02/04/tensorflow-js-machine-learning-for-the-web-and-beyond/)
 
 
 ### Information
@@ -16,4 +17,8 @@
 - [mattn/go-tflite](https://github.com/mattn/go-tflite) - Go binding for TensorFlow Lite
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go
 - [yashints/tjfs-wasm-demo](https://github.com/yashints/tjfs-wasm-demo) - Tensorflow.js running on WebAssembly backend
+
+
+### Papers
+- 2019 [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/1901.05350)
 
