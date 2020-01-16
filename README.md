@@ -1,6 +1,9 @@
 # sikang99/ai-study
 
 ### History
+- 2020/01/24 [W3C Workshop on Web & Machine Learning](https://www.w3.org/2020/01/machine-learning-workshop/)
+    - Tensorflow, ONNX, NNEF, WebNN, WebRTC, WASM, WebGPU
+- 2020/00/00
 - 2019/04/09 [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
 - 2019/02/12 [**A Comprehensive Introduction to Different Types of Convolutions in Deep Learning**](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) 
 - 2018/06/01 [CS231N Section Video Understanding](http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds08.pdf)
