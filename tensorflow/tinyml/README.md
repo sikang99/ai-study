@@ -5,6 +5,8 @@
 
 
 ### Information
+- [Build Arm Cortex-M voice assistant
+with Google TensorFlow Lite](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Machine%20Learning/Machine%20Learning%20PDF%20Tutorials/Build%20Arm%20Cortex-M%20voice%20assistant%20with%20Google%20TensorFlow%20Lite.pdf)
 
 
 ### Open Source
@@ -19,3 +21,4 @@
 ### Papers
 - 2019 [Neural networks on microcontrollers: saving memory at inference via operator reordering](https://arxiv.org/pdf/1910.05110.pdf)
 - 2019 [Person Following by Autonomous Robots: A Categorical Overview](https://arxiv.org/pdf/1803.08202.pdf)
+- 2019 [Compiling KB-Sized Machine Learning Models to Tiny IoT Devices](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/pldi19-SeeDot.pdf)
