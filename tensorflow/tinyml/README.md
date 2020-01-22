@@ -18,4 +18,4 @@
 
 ### Papers
 - 2019 [Neural networks on microcontrollers: saving memory at inference via operator reordering](https://arxiv.org/pdf/1910.05110.pdf)
-
+- 2019 [Person Following by Autonomous Robots: A Categorical Overview](https://arxiv.org/pdf/1803.08202.pdf)
