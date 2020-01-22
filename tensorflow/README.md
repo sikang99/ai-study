@@ -20,6 +20,10 @@
 - [yashints/tjfs-wasm-demo](https://github.com/yashints/tjfs-wasm-demo) - Tensorflow.js running on WebAssembly backend
 
 
+### Slides
+- 2019 [Intro to TensorFlow 2.0](http://www.080910t.com/wp-content/uploads/2019/11/TFW.pdf) - Easier for beginners, more powerful for experts
+
+
 ### Papers
 - 2019 [TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/1901.05350)
 - 2018 [**Bringing the web up to speed with WebAssembly**](https://www.researchgate.net/publication/329107994_Bringing_the_web_up_to_speed_with_WebAssembly)
